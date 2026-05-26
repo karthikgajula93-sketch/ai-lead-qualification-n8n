@@ -7,7 +7,9 @@
 ![Niche](https://img.shields.io/badge/Niche-EdTech%20%7C%20Coaching%20Centers-orange)
 
 An AI-powered lead qualification workflow that analyzes student inquiry text using GPT-3.5, assigns dynamic lead scores, routes high-priority leads for immediate follow-up, and updates CRM records automatically — built for NEET/JEE coaching institutes.
-
+---
+Live Demo
+https://aileadqual-8yrmwn9q.manus.space
 ---
 
 ## What This Does
